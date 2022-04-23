@@ -2,9 +2,9 @@
 
 I have created a Recommender system.
 
-I have used [Natural Language Processing]() for this project.
+I have used [Natural Language Processing](https://www.ibm.com/cloud/learn/natural-language-processing) for this project.
 
-**Follow [notebook]() for more!**
+**Follow [notebook](https://github.com/Anuragtsl/NLP-Movie_Recommender_System/blob/main/Movie%20Recommender%20System.ipynb) for more!**
 
 # Download Dataset
 
